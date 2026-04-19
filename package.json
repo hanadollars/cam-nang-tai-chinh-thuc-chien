@@ -1,0 +1,6 @@
+{
+  "name": "cam-nang-tai-chinh-thuc-chien",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": ">=18.0.0" }
+}
